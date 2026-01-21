@@ -1,5 +1,5 @@
 *.csv
 *.json
-* env/
-* venv/
-* env\
+env/
+venv/
+
