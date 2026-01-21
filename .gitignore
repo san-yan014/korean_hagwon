@@ -1,15 +1,2 @@
-!**/
-!**/.gitkeep
-
-
 *.csv
 *.json
-*.parquet
-*.db
-*.sqlite
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
-venv/
-.vscode/
-.DS_Store
