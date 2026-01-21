@@ -1,0 +1,132 @@
+yonhap scraper
+date range: 20050101 - 20191231
+keywords: ['학원', '사교육', '학원강사', '학원 강사', '학원교사', '학원 교사', '강사']
+already completed: ['사교육', '학원강사', '학원교사', '학원']
+============================================================
+
+[학원] already completed, skipping
+
+[사교육] already completed, skipping
+
+[학원강사] already completed, skipping
+
+[학원 강사] starting...
+  total articles: 697
+  page 1/7: 10 articles (total unique: 10)
+  page 2/7: 10 articles (total unique: 20)
+  page 3/7: 10 articles (total unique: 30)
+  page 4/7: 10 articles (total unique: 40)
+  page 5/7: 10 articles (total unique: 50)
+  page 6/7: 10 articles (total unique: 60)
+  page 7/7: 10 articles (total unique: 70)
+  saved 70 articles to output_2/yonhap_학원 강사_20050101_20191231.json
+
+[학원교사] already completed, skipping
+
+[학원 교사] starting...
+  total articles: 977
+  page 1/10: 10 articles (total unique: 10)
+  page 2/10: 10 articles (total unique: 20)
+  page 3/10: 10 articles (total unique: 30)
+  page 4/10: 10 articles (total unique: 40)
+  page 5/10: 10 articles (total unique: 50)
+  page 6/10: 10 articles (total unique: 60)
+  page 7/10: 10 articles (total unique: 70)
+  page 8/10: 10 articles (total unique: 80)
+  page 9/10: 10 articles (total unique: 90)
+  page 10/10: 10 articles (total unique: 100)
+  saved 100 articles to output_2/yonhap_학원 교사_20050101_20191231.json
+
+[강사] starting...
+  total articles: 7488
+  page 1/75: 10 articles (total unique: 10)
+  page 2/75: 10 articles (total unique: 20)
+  page 3/75: 10 articles (total unique: 30)
+  page 4/75: 10 articles (total unique: 40)
+  page 5/75: 10 articles (total unique: 50)
+  page 6/75: 10 articles (total unique: 60)
+  page 7/75: 10 articles (total unique: 70)
+  page 8/75: 10 articles (total unique: 80)
+  page 9/75: 10 articles (total unique: 90)
+  page 10/75: 10 articles (total unique: 100)
+  page 11/75: 10 articles (total unique: 110)
+  page 12/75: 10 articles (total unique: 120)
+  page 13/75: 10 articles (total unique: 130)
+  page 14/75: 10 articles (total unique: 140)
+  page 15/75: 10 articles (total unique: 150)
+  page 16/75: 10 articles (total unique: 160)
+  page 17/75: 10 articles (total unique: 170)
+  page 18/75: 10 articles (total unique: 180)
+  page 19/75: 10 articles (total unique: 190)
+  page 20/75: 10 articles (total unique: 200)
+  page 21/75: 10 articles (total unique: 210)
+  page 22/75: 10 articles (total unique: 220)
+  page 23/75: 10 articles (total unique: 230)
+  page 24/75: 10 articles (total unique: 240)
+  page 25/75: 10 articles (total unique: 250)
+  page 26/75: 10 articles (total unique: 260)
+  page 27/75: 10 articles (total unique: 270)
+  page 28/75: 10 articles (total unique: 280)
+  page 29/75: 10 articles (total unique: 290)
+  page 30/75: 10 articles (total unique: 300)
+  page 31/75: 10 articles (total unique: 310)
+  page 32/75: 10 articles (total unique: 320)
+  page 33/75: 10 articles (total unique: 330)
+  page 34/75: 10 articles (total unique: 340)
+  page 35/75: 10 articles (total unique: 350)
+  page 36/75: 10 articles (total unique: 360)
+  page 37/75: 10 articles (total unique: 370)
+  page 38/75: 10 articles (total unique: 380)
+  page 39/75: 10 articles (total unique: 390)
+  page 40/75: 10 articles (total unique: 400)
+  page 41/75: 10 articles (total unique: 410)
+  page 42/75: 10 articles (total unique: 420)
+  page 43/75: 10 articles (total unique: 430)
+  page 44/75: 10 articles (total unique: 440)
+  page 45/75: 10 articles (total unique: 450)
+  page 46/75: 10 articles (total unique: 460)
+  page 47/75: 10 articles (total unique: 470)
+  page 48/75: 10 articles (total unique: 480)
+  page 49/75: 10 articles (total unique: 490)
+  page 50/75: 10 articles (total unique: 500)
+  page 51/75: 10 articles (total unique: 510)
+  page 52/75: 10 articles (total unique: 520)
+  page 53/75: 10 articles (total unique: 530)
+  page 54/75: 10 articles (total unique: 540)
+  page 55/75: 10 articles (total unique: 550)
+  page 56/75: 10 articles (total unique: 560)
+  page 57/75: 10 articles (total unique: 570)
+  page 58/75: 10 articles (total unique: 580)
+  page 59/75: 10 articles (total unique: 590)
+  page 60/75: 10 articles (total unique: 600)
+  page 61/75: 10 articles (total unique: 610)
+  page 62/75: 10 articles (total unique: 620)
+  page 63/75: 10 articles (total unique: 630)
+  page 64/75: 10 articles (total unique: 640)
+  page 65/75: 10 articles (total unique: 650)
+  page 66/75: 10 articles (total unique: 660)
+  page 67/75: 10 articles (total unique: 670)
+  page 68/75: 10 articles (total unique: 680)
+  page 69/75: 10 articles (total unique: 690)
+  page 70/75: 10 articles (total unique: 700)
+  page 71/75: 10 articles (total unique: 710)
+  page 72/75: 10 articles (total unique: 720)
+  page 73/75: 10 articles (total unique: 730)
+  page 74/75: 10 articles (total unique: 740)
+  page 75/75: 10 articles (total unique: 750)
+  saved 750 articles to output_2/yonhap_강사_20050101_20191231.json
+
+============================================================
+summary
+============================================================
+  학원: 790 articles
+  사교육: 170 articles
+  학원강사: 20 articles
+  학원교사: 10 articles
+  학원 강사: 70 articles
+  학원 교사: 100 articles
+  강사: 750 articles
+
+total articles: 1910
+unique articles: 1658
+saved 1658 unique articles to output_2/yonhap_combined_20050101_20191231.json

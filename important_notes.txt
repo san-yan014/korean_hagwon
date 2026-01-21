@@ -1,0 +1,31 @@
+Methodology
+
+donga
+We scraped millions and millions of articles for Donga from 2005 - 2019 and then filtered out the irrelevant articles using Eunice's udpated filtering method. 
+
+joongang
+Joongang was the easiest since the sitemap was organized yearly and i retrieved the urls for each year and scraped the article. 
+and then i filtered out the articles 
+
+YNA
+YNA's search API engine does not support scraping from 2016 and backwards so our articles for YNA are limited.
+snippets of text around the keywords were scraped but not the entire article 
+
+revised method: since we have the url links, we can just directly scrape it - tell eunice and michel
+
+SBS
+For sbs, it supports search engine and scraping  so i filtered out the years by adding the specific year after the keyword search (keyword + year). 
+
+
+For YNA and SBS, the sitemap did not url links so I had to rely on YNA's search api engine and SBS's built-in search engine search. 
+
+
+
+
+
+other important notes: 
+
+Duplicates, incorrect dates, missing publications are handled through double_filter.py so after the filtering, everything is in correct format 
+
+
+

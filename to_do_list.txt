@@ -1,0 +1,32 @@
+To-do 
+
+- create graphs for youtube comments 
+
+
+Done: 
+
+
+- manually added the dates for youtube comments using approximation for missing ones but most are accurate 
+- created proportional graphs for article 
+
+- classified both comments and articles 
+- made sure there were no parsing errors 
+
+- refined the llm prompt for articles
+- manually verified with my own codes and llm's output. 
+    - everything matches up 
+    - llm reasoning is legit and valid. 
+- translated everything for youtube 
+- wrote the llm script for youtube
+
+- everything translated is in the translated_articles file. the numbers match to the relevant one. ALL of the translated are in there. 
+- finished retranslating for ones that was past the max tokens
+- related rate is around 92 to 95%. 
+- finsihed scraping for all of the articles 
+- checked everything that the articles have been filtered - pasted in the relevant folder 
+- checked that the batch method works using mock results in testing folder 
+    - it will append to the already existing json folder and the batch will be 50% off. 
+- refined the double filtering logic 
+    - the stats can be found in the filtered_translated 
+- made sure that the relevant articles have been put through the updated filtering method.
+- made sure the translation resumes after the complete articles (put through the updated filtering method )

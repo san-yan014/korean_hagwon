@@ -1,0 +1,13 @@
+requests 
+beautifulsoup4 
+selenium
+pandas
+tqdm
+google-cloud-translate
+lxml
+anthropic
+youtube_comment_downloader
+tiktoken
+matplotlib
+google-api-python-client
+xlsxwriter

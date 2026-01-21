@@ -1,0 +1,54 @@
+donga 
+
+==================================================
+results summary
+==================================================
+original articles: 387770
+after deduplication: 387770
+after date filtering: 387770
+verified: 1106
+rejected: 386664
+acceptance rate: 0.3%
+
+
+joongang
+
+==================================================
+results summary
+==================================================
+original articles: 20283
+after deduplication: 20283
+after date filtering: 20277
+verified: 4501
+rejected: 15776
+acceptance rate: 22.2%
+
+
+sbs
+
+==================================================
+results summary
+==================================================
+original articles: 598
+after deduplication: 598
+after date filtering: 596
+verified: 288
+rejected: 308
+acceptance rate: 48.3%
+
+
+
+yna
+
+verified: 163
+
+
+
+total 
+
+donga: 1106
+joongang: 4501
+sbs: 288 
+yna: 163 
+
+total = 6058

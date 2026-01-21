@@ -1,0 +1,6 @@
+donga: 1198
+joongang: 5710
+sbs: 439
+yna: 134
+
+total: 7841
